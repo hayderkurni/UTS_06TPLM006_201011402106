@@ -109,9 +109,9 @@ class _MyHomePageState extends State<MyHomePage> {
                           Padding(
                             padding: const EdgeInsets.only(top: 20),
                             child: Text(
-                              'S8.795',
+                              'RP. 2.000.000',
                               style: TextStyle(
-                                fontSize: 10,
+                                fontSize: 12,
                                 fontWeight: FontWeight.w500,
                               ),
                             ),
@@ -153,9 +153,9 @@ class _MyHomePageState extends State<MyHomePage> {
                           Padding(
                             padding: const EdgeInsets.only(top: 20),
                             child: Text(
-                              'S9.995',
+                              'RP. 2.500.000',
                               style: TextStyle(
-                                fontSize: 10,
+                                fontSize: 12,
                                 fontWeight: FontWeight.w500,
                               ),
                             ),
@@ -200,9 +200,9 @@ class _MyHomePageState extends State<MyHomePage> {
                           Padding(
                             padding: const EdgeInsets.only(top: 20),
                             child: Text(
-                              'S19.695',
+                              'RP. 3.000.000',
                               style: TextStyle(
-                                fontSize: 10,
+                                fontSize: 12,
                                 fontWeight: FontWeight.w500,
                               ),
                             ),
@@ -247,17 +247,18 @@ class _MyHomePageState extends State<MyHomePage> {
                           Padding(
                             padding: const EdgeInsets.only(top: 20),
                             child: Text(
-                              '1 Colour',
+                              'One Colour',
                               style: TextStyle(
-                                fontSize: 10,
+                                fontSize: 11,
                                 fontWeight: FontWeight.w500,
                               ),
                             ),
                           ),
                           Text(
-                            'S6.295',
+                            'RP. 3.500.000',
                             style: TextStyle(
-                              fontSize: 10,
+                              fontSize: 12,
+                              fontWeight: FontWeight.w500,
                             ),
                           ),
                         ],
@@ -300,10 +301,10 @@ class _MyHomePageState extends State<MyHomePage> {
                           Padding(
                             padding: const EdgeInsets.only(top: 20),
                             child: Text(
-                              'S8.295',
+                              'RP. 4.000.000',
                               style: TextStyle(
-                                fontSize: 10,
-                                fontWeight: FontWeight.w600,
+                                fontSize: 12,
+                                fontWeight: FontWeight.w500,
                               ),
                             ),
                           ),
